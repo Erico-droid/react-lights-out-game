@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+
+.Board {
+    margin: 0 auto;
+    box-shadow: 4px 10px 108px -38px rgba(0,242,234,0.75);
+-webkit-box-shadow: 4px 10px 108px -38px rgba(0,242,234,0.75);
+-moz-box-shadow: 4px 10px 108px -38px rgba(0,242,234,0.75);
+  }
+
+.heading {
+    font-family: 'Rubik Vinyl', cursive;
+    font-size: 45px;
+    color:  rgb(76, 243, 10);
+}
+
+.winnerText {
+    font-family: 'Rubik Vinyl', cursive;
+    font-size: 65px;
+}
